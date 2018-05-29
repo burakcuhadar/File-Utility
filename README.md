@@ -1,5 +1,5 @@
 # File-Utility
-
+Please check out ProjectDescription.pdf for description of the project.
 # Usage:
 ```
 > python3 filelist.py [-h] [-before <datetime>] [-after <datetime>] [-match <pattern>]
