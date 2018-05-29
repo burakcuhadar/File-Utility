@@ -2,9 +2,9 @@
 
 # Usage:
 ```
-> python3 filelist.py [-h] [-before BEFORE] [-after AFTER] [-match MATCH]
-                      [-smaller SMALLER] [-bigger BIGGER] [-delete | -zip ZIP]
+> python3 filelist.py [-h] [-before <datetime>] [-after <datetime>] [-match <pattern>]
+                      [-smaller <int>] [-bigger <int>] [-delete | -zip <zipfile>]
                       [-duplcont | -duplname] [-stats] [-nofilelist]
                       [directory [directory ...]]
 ```
-* For more detailed information look at Description.pdf
+* For more detailed information look at the pdf file.
